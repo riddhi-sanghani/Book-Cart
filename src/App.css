@@ -12,27 +12,85 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.continer-card {
+  border: 3px solid #fff;
+  padding: 20px;
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.continer-card.card {
+  min-height: 450px;
+  margin-left: 10px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.card-footer-badge {
+  font-size: 1rem;
+}
+.card-img-top {
+  height: 300px;
+  width: 200px;
+}
+.book-item {
+  width: 300px;
+  padding: 10px 20px;
+  border: 2px solid #000;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+.cart-container {
+  display: grid;
+  align-items: center;
+  grid-template-columns: 0.5fr 2fr 1fr 0.5fr;
+  column-gap: 5px;
+  border: 2px solid #000;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+.border-hide {
+  border: none;
+}
+.empty-div {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.cart-img {
+  height: 60px;
+  width: 100px;
+  border-radius: 10px;
+}
+.cart-discription {
+  font-size: 12px;
+}
+.page-container {
+  margin-top: 100px;
+}
+.card-img-top {
+  height: 200px;
+  width: 300px;
+  border-radius: 10px;
+}
+.cart-icon {
+  display: flex;
+  justify-content: flex-end;
+}
+.auther-price {
+  display: flex;
+  justify-content: space-between;
 }

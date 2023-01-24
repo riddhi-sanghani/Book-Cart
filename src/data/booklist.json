@@ -1,0 +1,206 @@
+[
+  {
+    "id": "0",
+    "author": "Chinua Achebe",
+    "title": "Things Fall Apart",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh.",
+    "price": 784
+  },
+  {
+    "id": "1",
+    "author": "Hans Christian Andersen",
+    "price": 784,
+    "title": "Fairy tales",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "2",
+    "author": "Dante Alighieri",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh.",
+    "price": 928,
+    "title": "The Divine Comedy"
+  },
+  {
+    "id": "3",
+    "author": "Unknown",
+    "price": 160,
+    "title": "The Epic Of Gilgamesh",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "4",
+    "author": "Unknown",
+    "price": 176,
+    "title": "The Book Of Job",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "5",
+    "author": "Unknown",
+    "price": 288,
+    "title": "One Thousand and One Nights",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "6",
+    "author": "Unknown",
+    "price": 384,
+    "title": "Nj\u00e1l's Saga",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "7",
+    "author": "Jane Austen",
+    "price": 226,
+    "title": "Pride and Prejudice",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "8",
+    "author": "Honor\u00e9 de Balzac",
+    "price": 443,
+    "title": "Le P\u00e8re Goriot",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "9",
+    "author": "Samuel Beckett",
+    "price": 256,
+    "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "10",
+    "author": "Giovanni Boccaccio",
+    "price": 1024,
+    "title": "The Decameron",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "11",
+    "author": "Jorge Luis Borges",
+    "price": 224,
+    "title": "Ficciones",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "12",
+    "author": "Emily Bront",
+    "price": 342,
+    "title": "Wuthering Heights",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "13",
+    "author": "Albert Camus",
+    "price": 185,
+    "title": "The Stranger",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "14",
+    "author": "Paul Celan",
+    "price": 320,
+    "title": "Poems",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "15",
+    "author": "Louis-Ferdinand C\u00e9line",
+    "price": 505,
+    "title": "Journey to the End of the Night",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "16",
+    "author": "Miguel de Cervantes",
+    "price": 1056,
+    "title": "Don Quijote De La Mancha",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "17",
+    "author": "Geoffrey Chaucer",
+    "price": 544,
+    "title": "The Canterbury Tales",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "18",
+    "author": "Anton Chekhov",
+    "price": 194,
+    "title": "Stories",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "20",
+    "author": "Joseph Conrad",
+    "price": 320,
+    "title": "Nostromo",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "21",
+    "author": "Charles Dickens",
+    "price": 194,
+    "title": "Great Expectations",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "22",
+    "author": "Denis Diderot",
+    "price": 596,
+    "title": "Jacques the Fatalist",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "24",
+    "author": "Alfred D\u00f6blin",
+    "price": 600,
+    "title": "Berlin Alexanderplatz",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "25",
+    "author": "Fyodor Dostoevsky",
+    "price": 551,
+    "title": "Crime and Punishment",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "26",
+    "author": "Fyodor Dostoevsky",
+    "country": "Russia",
+    "price": 656,
+    "title": "The Idiot",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "27",
+    "author": "Fyodor Dostoevsky",
+    "price": 768,
+    "title": "The Possessed",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "28",
+    "author": "Fyodor Dostoevsky",
+    "price": 824,
+    "title": "The Brothers Karamazov",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "29",
+    "author": "George Eliot",
+    "price": 800,
+    "title": "Middlemarch",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  },
+  {
+    "id": "30",
+    "author": "Ralph Ellison",
+    "price": 581,
+    "title": "Invisible Man",
+    "description": "The timeless original text; required listening for anyone interested in strategy. This is a work of subtlety and paradox that sh."
+  }
+]
